@@ -4,6 +4,7 @@ module.exports = {
         "node": true
     },
     "rules": {
+        
         "no-console": 0,
         "quote-props": 0,
         "no-param-reassign": 0,

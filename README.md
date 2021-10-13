@@ -19,6 +19,13 @@ Install this tool using `npm`:
 ```bash
 $ npm install -g linkedin-auto-bot
 ```
+or
+```
+install docker desktop https://www.docker.com/products/docker-desktop
+
+and 
+```
+run ``` docker run -it -d -p 80:80 --name linkedinbot linkedinbot:latest ```
 
 It installs two binaries: `linkedin-auto-bot` and `lab` to your system path.
 
@@ -51,7 +58,6 @@ Please, try to follow:
 * Start the scraper.
 
 ```sh
-$ git clone https://github.com/nomi9995/linkedin-auto-bot.git
 $ cd linkedin-auto-bot
 $ git checkout develop
 $ npm i

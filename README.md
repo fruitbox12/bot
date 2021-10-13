@@ -34,7 +34,7 @@ It installs two binaries: `linkedin-auto-bot` and `lab` to your system path.
 Use it as follows using `lab` command:
 
 ```bash
-$ lab -u enter_your_linkedin_email> -k <keyword like Full Stack Developer>
+$ lab -u enter_your_linkedin_email> -k < Investor >
 Enter LinkedIn password: *****
 ```
 

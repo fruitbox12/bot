@@ -11,6 +11,7 @@ Just run it from your favorite terminal or command prompt and keep it running un
 
 **Note**: If `node` and `npm` are not installed, Install them from [here](https://nodejs.org/en/download/).
 
+
 ## Installation
 
 Install this tool using `npm`:
